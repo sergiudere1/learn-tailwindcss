@@ -25,3 +25,14 @@ w-9/12	width: 75%;
 w-10/12	width: 83.333333%;
 w-11/12	width: 91.666667%;
 w-full	width: 100%;
+
+////////////////////////////
+
+
+use radial, or other bg option
+bg- prefix
+bg-[radial-gradient(169.40%_89.55%_at_94.76%_6.29%,rgba(0,0,0,0.40)_0%,rgba(255,255,255,0.00)_100%)]
+
+example used in challenge (https://icodethis.com/submissions/49190)
+
+bg-[radial-gradient(90%_90%_at_50%_50%,rgba(129,81,191,1)_30%,rgba(62,78,163,1)_70%)]
