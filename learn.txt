@@ -36,3 +36,9 @@ bg-[radial-gradient(169.40%_89.55%_at_94.76%_6.29%,rgba(0,0,0,0.40)_0%,rgba(255,
 example used in challenge (https://icodethis.com/submissions/49190)
 
 bg-[radial-gradient(90%_90%_at_50%_50%,rgba(129,81,191,1)_30%,rgba(62,78,163,1)_70%)]
+
+
+////////////////////////////
+GRID col
+<article class="grid grid-cols-[10%_50%_38%] gap-[1%] ">
+w-[90px] h-[90px]
