@@ -43,5 +43,6 @@ GRID col
 <article class="grid grid-cols-[10%_50%_38%] gap-[1%] ">
 w-[90px] h-[90px]
 
+somtimg
 
 https://icodethis.com/submissions/49468
