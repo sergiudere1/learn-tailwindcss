@@ -43,6 +43,16 @@ GRID col
 <article class="grid grid-cols-[10%_50%_38%] gap-[1%] ">
 w-[90px] h-[90px]
 
-somtimg
+//something
 
-https://icodethis.com/submissions/49468
+
+1. https://icodethis.com/submissions/48670
+2. https://icodethis.com/submissions/48840
+3. https://icodethis.com/submissions/49019
+4. https://icodethis.com/submissions/49190
+5. https://icodethis.com/submissions/49340
+6. https://icodethis.com/submissions/49468
+7. https://icodethis.com/submissions/49676
+8. https://icodethis.com/submissions/49868 
+9.
+10.
