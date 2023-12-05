@@ -73,3 +73,5 @@ w-[90px] h-[90px]
 25.https://icodethis.com/submissions/53328
 26.https://icodethis.com/submissions/53944
 27.https://icodethis.com/submissions/54091
+28.https://icodethis.com/submissions/54497
+29.https://icodethis.com/submissions/54688
